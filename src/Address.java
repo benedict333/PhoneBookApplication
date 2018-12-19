@@ -35,5 +35,4 @@ public class Address {
 		return this.street + "/" + this.city + "/" + this.state +"/"+zipCode ;
 		
 	}
-	
 }

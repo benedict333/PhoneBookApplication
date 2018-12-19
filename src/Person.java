@@ -49,5 +49,4 @@
 		public int compareTo(Person o) {
 			return this.firstName.trim().compareTo(o.firstName.trim());
 		}
-
 }
