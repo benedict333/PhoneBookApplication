@@ -1,10 +1,12 @@
 # PhoneBookApplication
 This application saves contacts to a text file further enabling editing or updating the contacts with the following options :-
 Option: 1 Check for any existing files
+
 	search for any existing files
 	If file is found use the option for appending more contacts to the list or creating a new file
 
 Option: 2 Add new entries:
+
 	create a new file
 	Create an arraylist with the desired number of contacts to be input and add them to the arraylist
 	receive the phone number in the proper format
